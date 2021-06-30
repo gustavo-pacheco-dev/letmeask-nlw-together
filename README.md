@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/gustavinho-dev/letmeask-nlw-together
+$ git clone https://github.com/gustavinho-dev/letmeask-nlw-together.git
 ```
 
 Para iniciá-lo, siga os passos abaixo:
